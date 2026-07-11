@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔮 Scarlet Chaos Magic — Air Draw V2
+# 🔮 Scarlet Chaos Magic — Air Draw 
 
 ### Real-time hand-tracking magic, air drawing, particles, shields, runes and cinematic webcam VFX
 
