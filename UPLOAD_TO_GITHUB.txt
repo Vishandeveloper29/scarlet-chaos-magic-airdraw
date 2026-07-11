@@ -1,0 +1,11 @@
+IMPORTANT:
+1. Extract this ZIP first. Do not upload the ZIP itself as the project.
+2. Open the scarlet_chaos_magic folder in GitHub Desktop.
+3. Publish it using repository name: scarlet-chaos-magic-airdraw
+
+Command-line alternative:
+  git init -b main
+  git add .
+  git commit -m "Initial commit: Scarlet Chaos Magic AirDraw V2"
+  git remote add origin https://github.com/YOUR-USERNAME/scarlet-chaos-magic-airdraw.git
+  git push -u origin main
